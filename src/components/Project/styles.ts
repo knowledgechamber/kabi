@@ -108,9 +108,17 @@ export const Container = styled.section`
     }
   }
 
+
+  .proimg {
+    width:500px;
+  }
+
   @media (max-width: 960px){
     .projects{
       grid-template-columns: 1fr 1fr;
+    }
+    .proimg {
+      width:265px;
     }
   }
 
@@ -118,5 +126,9 @@ export const Container = styled.section`
     .projects{
       grid-template-columns: 1fr;
     }
+    .proimg {
+      width:265px;
+    }
   }
 `
+

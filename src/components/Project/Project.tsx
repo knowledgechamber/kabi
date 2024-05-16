@@ -226,6 +226,7 @@ the insurance they require.
       <div className="projects">
 
 
+
       <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
@@ -236,24 +237,26 @@ the insurance they require.
                 <a href="https://www.behance.net/kabithakamatchi" target="_blank" rel="noreferrer">
                   <img src={behance} alt="Visit site" />
                 </a>
+                
               </div>
             </header>
             <div className="body">
-            <header>
-              <div className="project-links">
-                  <img className="designimg" src={whatsapp} alt="Visit site" />
-              </div>
-            </header>
-              <h3>WhatsApp Mobile Ui</h3>
-              <p>
-             Tool Used : Figma
-              </p>
-            </div>
-          </div>
+              
+            <ScrollAnimation className="projectimg" animateIn="fadeInRight" delay={1 * 1000}>
+          <img className="proimg" src={whatsapp} alt="Ilustração" />
         </ScrollAnimation>
 
-
-
+              <h3>Mobile WhatsApp Ui Clone</h3>
+              
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li> Tool Used :</li>
+                <li> Figma</li>
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
 
       </div>
       
