@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/kabi/static/css/main.039bf95e.css",
-    "main.js": "/kabi/static/js/main.eabde2c3.js",
+    "main.js": "/kabi/static/js/main.4f5249f9.js",
+    "static/media/Kabitha Resume.pdf": "/kabi/static/media/Kabitha Resume.f894122fa6969e9b0387.pdf",
     "static/media/Hello.gif": "/kabi/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/Kabitha - Resume.pdf": "/kabi/static/media/Kabitha - Resume.890a849f5a586f953002.pdf",
     "static/media/OBJECTS.png": "/kabi/static/media/OBJECTS.4a534088456e6fa1e60f.png",
     "static/media/Kabitha.svg": "/kabi/static/media/Kabitha.103357144a4dd0054f7deb1777d1b49b.svg",
     "static/media/python.png": "/kabi/static/media/python.6a5cbc319ab3ddf8ef92.png",
@@ -28,10 +28,10 @@
     "static/media/js-icon.svg": "/kabi/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/kabi/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "main.039bf95e.css.map": "/kabi/static/css/main.039bf95e.css.map",
-    "main.eabde2c3.js.map": "/kabi/static/js/main.eabde2c3.js.map"
+    "main.4f5249f9.js.map": "/kabi/static/js/main.4f5249f9.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.eabde2c3.js"
+    "static/js/main.4f5249f9.js"
   ]
 }
