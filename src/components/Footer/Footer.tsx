@@ -4,6 +4,7 @@ import behance from '../../assets/behance.png'
 import githubIcon from '../../assets/github.svg'
 import naukri from '../../assets/naukri.png'
 import indeed from '../../assets/indeed white.png'
+import k from '../../assets/Icon web.png'
 // import discordIcon from '../../assets/discord.png'
 
 export function Footer() {
@@ -15,7 +16,8 @@ export function Footer() {
       </a>
       <div>
         <p>
-         {/*  This Website was made with <img src={reactIcon} alt="React" /> */}
+          with regards <img src={k} alt="React" />
+          {/* <span>❤️</span> */}
         </p>
       </div>
       <div className="social-media">
